@@ -2,6 +2,7 @@ package java_level2;
 
 import java.util.*;
 
+// 1. 도넛과 막대 그래프
 class DonutAndStickGraph {
     public int[] solution(int[][] edges) {
         Map<Integer, Integer> out = new HashMap<>();
