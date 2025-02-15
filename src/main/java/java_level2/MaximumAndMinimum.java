@@ -2,6 +2,7 @@ package java_level2;
 
 import java.util.Arrays;
 
+// 3. 최솟값과 최댓값
 public class MaximumAndMinimum {
 	
     public String solution(String s) {
